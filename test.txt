@@ -3,8 +3,7 @@ this is test file
 
 
 
-problem1.0
-this is problem 1.0
+
 
 
 problem1.1
