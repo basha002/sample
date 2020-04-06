@@ -1,2 +1,5 @@
 hi
 this is test1 file
+
+problem1.o
+this is problem1.o
