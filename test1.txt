@@ -7,7 +7,3 @@ added one more line in problem1.0
 
 problem1.1
 this is problem1.1
-
-
-problem1.0
-
