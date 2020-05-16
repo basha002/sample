@@ -1,2 +1,2 @@
-hi
+Hi
 this is test file in sample repository
